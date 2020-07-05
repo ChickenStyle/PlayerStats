@@ -1,0 +1,8 @@
+name: PlayerStats
+main: me.chickenstyle.stats.Main
+description: PlayerStats plugin
+version: 1.0
+depend: [Vault]
+commands:
+  playerstats: 
+    description: Plugin's main command

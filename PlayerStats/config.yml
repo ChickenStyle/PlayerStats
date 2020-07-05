@@ -1,0 +1,4 @@
+messages:
+  invalidUsage: "&4Invalid usage, use '/playerstats {player}' instead!"
+  offlinePlayer: "&4This player is offline, you cannot check his stats!"
+  
